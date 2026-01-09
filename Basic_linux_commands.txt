@@ -1,7 +1,14 @@
-1. Check your current user:   whoami
-2. Create a folder called linux_practice: mkdir linux_practice
-3. Navigate into the new folder:  cd linux_practice
-4. Create two subfolders inside it: logs and notes-   mkdir -p logs/notes
-5. Create a text file in notes using touch: touch resume.txt
-6. List all files and folders: ls -l
+# Check your current user:  
+whoami
+# Create a folder called linux_practice: 
+mkdir linux_practice
+# Navigate into the new folder:  
+cd linux_practice
+# Create two subfolders inside it: logs and notes-  
+mkdir -p logs/notes
+# Create a text file in notes using touch: 
+touch resume.txt
+# List all files and folders:
+ls -l
+
 
